@@ -1,0 +1,15 @@
+C:\Users\Ленар\Desktop\HomeWork\HomeWork_23May\bin\Debug\net7.0\HomeWork_23May.exe
+C:\Users\Ленар\Desktop\HomeWork\HomeWork_23May\bin\Debug\net7.0\HomeWork_23May.deps.json
+C:\Users\Ленар\Desktop\HomeWork\HomeWork_23May\bin\Debug\net7.0\HomeWork_23May.runtimeconfig.json
+C:\Users\Ленар\Desktop\HomeWork\HomeWork_23May\bin\Debug\net7.0\HomeWork_23May.dll
+C:\Users\Ленар\Desktop\HomeWork\HomeWork_23May\bin\Debug\net7.0\HomeWork_23May.pdb
+C:\Users\Ленар\Desktop\HomeWork\HomeWork_23May\obj\Debug\net7.0\HomeWork_23May.csproj.AssemblyReference.cache
+C:\Users\Ленар\Desktop\HomeWork\HomeWork_23May\obj\Debug\net7.0\HomeWork_23May.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ленар\Desktop\HomeWork\HomeWork_23May\obj\Debug\net7.0\HomeWork_23May.AssemblyInfoInputs.cache
+C:\Users\Ленар\Desktop\HomeWork\HomeWork_23May\obj\Debug\net7.0\HomeWork_23May.AssemblyInfo.cs
+C:\Users\Ленар\Desktop\HomeWork\HomeWork_23May\obj\Debug\net7.0\HomeWork_23May.csproj.CoreCompileInputs.cache
+C:\Users\Ленар\Desktop\HomeWork\HomeWork_23May\obj\Debug\net7.0\HomeWork_23May.dll
+C:\Users\Ленар\Desktop\HomeWork\HomeWork_23May\obj\Debug\net7.0\refint\HomeWork_23May.dll
+C:\Users\Ленар\Desktop\HomeWork\HomeWork_23May\obj\Debug\net7.0\HomeWork_23May.pdb
+C:\Users\Ленар\Desktop\HomeWork\HomeWork_23May\obj\Debug\net7.0\HomeWork_23May.genruntimeconfig.cache
+C:\Users\Ленар\Desktop\HomeWork\HomeWork_23May\obj\Debug\net7.0\ref\HomeWork_23May.dll
